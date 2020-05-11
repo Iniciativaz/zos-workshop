@@ -19,6 +19,8 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
 
 * Informações para instalar o Terminal 3270 - https://www.youtube.com/watch?v=lKLkqsKTo3Y
 
+* Outros materiais e recursos: https://www.ibm.com/community/z/talent
+
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
 
 
