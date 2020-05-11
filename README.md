@@ -12,9 +12,11 @@ Horário: 9h às 15h (intervalo aproximadamente 11h)
 
 * Link para entrar na sessão online: https://ibm.biz/zosintroworkshop (senha iniciativaz) 
 
+* Se você tiver algum problema ou precisar resetar a sua senha, crie um "issue" em https://github.com/Iniciativaz/zos-workshop/issues    
+
 * Teremos atividades práticas ao longo da semana e para isso você precisa ter um ID ao z/OS. 
 Se você ainda não recebeu esse ID faça o cadastro em: http://ibm.biz/workshop-maio2020
-Você vai receber o ID por email (z00xxx) e a senha nós vamos informar posteriormente, 
+Você vai receber o ID por email (z00xxx). 
 De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.com com essas informações.
 
 * Informações para instalar o Terminal 3270 
