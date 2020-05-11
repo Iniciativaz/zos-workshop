@@ -24,7 +24,7 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
    
 * Outros materiais e recursos: https://www.ibm.com/community/z/talent
 * Introdução ao Workshop Coursera: https://www.coursera.org/promo/ibm-z-promo?utm_source=IBM&utm_medium=institutions&utm_campaign=PcertZ 
-
+* Preparação Opcional: http://ibm.biz/zosintro 
 
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
 
