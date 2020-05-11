@@ -3,7 +3,7 @@
 
 Data: 11 a 15/junho/2020
 
-Horário: 9h às 15h (intervalo aproximadamente 11h)
+Horário: 9h às 15h (intervalo aproximadamente às 11h)
 
 * Descrição do workshop: https://www.meetup.com/iniciativaz/events/270049483/
 
@@ -31,5 +31,9 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
 * Preparação Opcional: http://ibm.biz/zosintro 
 
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
+
+# Instruções sobre o Lab 1
+Video: https://youtu.be/v_BAJO0l2d0
+
 
 
