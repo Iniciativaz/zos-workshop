@@ -1,7 +1,9 @@
 # zos-workshop
 
 Workshop de Introdução ao zOS em português
+
 Data: 11 a 15/junho/2020
+
 Horário: 9h às 15h (intervalo aproximadamente 11h)
 
 * Descrição do workshop: https://www.meetup.com/iniciativaz/events/270049483/
