@@ -1,11 +1,22 @@
 # zos-workshop
 
-Apresentações e Laboratórios já estão disponíveis nesse link -  http://ibm.biz/zOSclass
+Workshop de Introdução ao zOS em português
+Data: 11 a 15/junho/2020
+Horário: 9h às 15h (intervalo aproximadamente 11h)
 
-Durante toda a semana nós vamos usar esse mesmo link para a sessão - https://ibm.biz/zosintroworkshop (senha iniciativaz) 
+* Descrição do workshop: https://www.meetup.com/iniciativaz/events/270049483/
 
-Teremos atividades práticas ao longo da semana e para isso você precisa ter um ID ao z/OS. Se você ainda não recebeu esse ID faça o cadastro em: http://ibm.biz/workshop-maio2020 (você vai receber o ID por email e a senha nós vamos informar antes dos labs) De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.com
+* Materiais utilizados durante o workshop: http://ibm.biz/zOSclass
 
-Para mais informações e webinars do Iniciativa Z: http://ibm.biz/iniciativaz
+* Link para entrar na sessão online: https://ibm.biz/zosintroworkshop (senha iniciativaz) 
 
-Informações para instalar o Terminal 3270 - https://www.youtube.com/watch?v=lKLkqsKTo3Y
+* Teremos atividades práticas ao longo da semana e para isso você precisa ter um ID ao z/OS. 
+Se você ainda não recebeu esse ID faça o cadastro em: http://ibm.biz/workshop-maio2020
+Você vai receber o ID por email (z00xxx) e a senha nós vamos informar posteriormente, 
+De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.com com essas informações.
+
+* Informações para instalar o Terminal 3270 - https://www.youtube.com/watch?v=lKLkqsKTo3Y
+
+* Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
+
+
