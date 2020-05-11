@@ -17,9 +17,14 @@ Se você ainda não recebeu esse ID faça o cadastro em: http://ibm.biz/workshop
 Você vai receber o ID por email (z00xxx) e a senha nós vamos informar posteriormente, 
 De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.com com essas informações.
 
-* Informações para instalar o Terminal 3270 - https://www.youtube.com/watch?v=lKLkqsKTo3Y
-
+* Informações para instalar o Terminal 3270 
+   * Instruções: http://mtm2019.mybluemix.net/connectivity_guide/connectivity_guide_software.html 
+   * Instruções explicadas em vídeo: https://www.youtube.com/watch?v=lKLkqsKTo3Y
+   * Outra opção para download: https://softwarepublico.gov.br/social/pw3270
+   
 * Outros materiais e recursos: https://www.ibm.com/community/z/talent
+* Introdução ao Workshop Coursera: https://www.coursera.org/promo/ibm-z-promo?utm_source=IBM&utm_medium=institutions&utm_campaign=PcertZ 
+
 
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
 
