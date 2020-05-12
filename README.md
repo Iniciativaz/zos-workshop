@@ -7,7 +7,7 @@ Horário: 9h às 15h (intervalo aproximadamente às 11h)
 
 * Descrição do workshop: https://www.meetup.com/iniciativaz/events/270049483/
 
-* Materiais utilizados durante o workshop: http://ibm.biz/zOSclass
+* Materiais utilizados e labs utilizados durante o workshop: http://ibm.biz/zOSclass
 
 * Link para entrar na sessão online: https://ibm.biz/zosintroworkshop (senha iniciativaz) 
 
@@ -24,8 +24,10 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
    * Outra opção para download: https://softwarepublico.gov.br/social/pw3270
    
    **ATENÇÃO: OS LINKS ACIMA SÃO APENAS PARA INSTALAÇÃO. PARA CONFIGURAR A SUA SESSÃO UTILIZE OS SEGUINTES DADOS:** 
-   Clique no menu Preparation > selecione Connection Instructions e lembre-se de substituir o **IP pelo 192.86.32.67**
+   Clique no menu Preparation > selecione Connection Instructions e lembre-se de substituir o **IP pelo 192.86.32.67 porta 23 ou 1023**
    
+* Badge será emitido para todos que tirarem nota mínima do quiz. Instruções para o quiz serão passadas no último dia do workshop
+
 * Outros materiais e recursos: https://www.ibm.com/community/z/talent
 * Introdução ao Workshop Coursera: https://www.coursera.org/promo/ibm-z-promo?utm_source=IBM&utm_medium=institutions&utm_campaign=PcertZ 
 * Preparação Opcional: http://ibm.biz/zosintro 
