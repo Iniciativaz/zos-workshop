@@ -37,5 +37,7 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
 # Instruções sobre o Lab 1
 Video: https://youtu.be/v_BAJO0l2d0
 
+Dicas sobre FTP enviado por um participante: "no meu caso o problema do FTP foi o FTP do Windows, eu usei o WINSCP e deu certo"
+
 
 
