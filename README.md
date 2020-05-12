@@ -3,7 +3,8 @@
 
 Data: 11 a 15/junho/2020
 
-Horário: 9h às 15h (intervalo aproximadamente às 11h)
+Horário: 9h às 13h (intervalo aproximadamente às 11h)
+Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse slot caso tenha algum atraso ao passar o conteúdo. 
 
 * Descrição do workshop: https://www.meetup.com/iniciativaz/events/270049483/
 
