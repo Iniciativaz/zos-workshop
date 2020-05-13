@@ -35,10 +35,11 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
 
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
 
-# Instruções sobre o Lab 1
-Video: https://youtu.be/v_BAJO0l2d0
+# Labs
+Onde fazer download dos labs? Veja a última coluna. Um único arquivo com todas as instruções: http://ibm.biz/zOSclass
+Playlist no YouTube com os Labs: https://www.youtube.com/playlist?list=PLt8B29DbbvgvZTpxEOEdQZ_Nq2A4nFifl
 
-Dicas sobre FTP enviado por um participante: "no meu caso o problema do FTP foi o FTP do Windows, eu usei o WINSCP e deu certo"
+Dica Lab1 - Sobre FTP enviado por um participante: "no meu caso o problema do FTP foi o FTP do Windows, eu usei o WINSCP e deu certo"
 
 
 
