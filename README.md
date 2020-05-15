@@ -51,61 +51,59 @@ Dica Lab1 - Sobre FTP enviado por um participante: "no meu caso o problema do FT
 
 # Quiz Score
 
-Z00071 Score: 45
-Z00083 Score: 0
-Z00088 Score: 1
-Z00101 Score: 0
-Z00105 Score: 1
-Z00112 Score: 57
-Z00116 Score: 0
-Z00120 Score: 0
-Z00135 Score: 0
-Z00138 Score: 0
-Z00143 Score: 51
-Z00157 Score: 0
-Z00168 Score: 54
-Z00183 Score: 60
-Z00190 Score: 0
-Z00198 Score: 56
-Z00199 Score: 0
-Z00201 Score: 0
-Z00208 Score: 0
-Z00213 Score: 3
-Z00255 Score: 0
-Z00273 Score: 0
-Z00274 Score: 2
-Z00289 Score: 0
-Z00310 Score: 0
-Z00328 Score: 57
-Z00362 Score: 52
-Z00387 Score: 1
-Z00390 Score: 0
-Z00401 Score: 0
-Z00403 Score: 54
-Z00417 Score: 1
-Z00423 Score: 55
-Z00469 Score: 1
-Z00480 Score: 0
-Z00488 Score: 0
-Z00506 Score: 0
-Z00509 Score: 1
-Z00515 Score: 0
-Z00521 Score: 0
-Z00524 Score: 5
-Z00544 Score: 0
-Z00545 Score: 0
-Z00553 Score: 0
-Z00556 Score: 1
-Z00581 Score: 0
-Z00585 Score: 58
-Z00588 Score: 50
-Z00604 Score: 0
-Z00617 Score: 0
-Z00618 Score: 0
-Z00646 Score: 58
-Z00658 Score: 2
-Z00708 Score: 0
-Z00716 Score: 1
-Z00735 Score: 0
-
-
+* Z00071 Score: 45
+* Z00083 Score: 0
+* Z00088 Score: 1
+* Z00101 Score: 0
+* Z00105 Score: 1
+* Z00112 Score: 57
+* Z00116 Score: 0
+* Z00120 Score: 0
+* Z00135 Score: 0
+* Z00138 Score: 0
+* Z00143 Score: 51
+* Z00157 Score: 0
+* Z00168 Score: 54
+* Z00183 Score: 60
+* Z00190 Score: 0
+* Z00198 Score: 56
+* Z00199 Score: 0
+* Z00201 Score: 0
+* Z00208 Score: 0
+* Z00213 Score: 3
+* Z00255 Score: 0
+* Z00273 Score: 0
+* Z00274 Score: 2
+* Z00289 Score: 0
+* Z00310 Score: 0
+* Z00328 Score: 57
+* Z00362 Score: 52
+* Z00387 Score: 1
+* Z00390 Score: 0
+* Z00401 Score: 0
+* Z00403 Score: 54
+* Z00417 Score: 1
+* Z00423 Score: 55
+* Z00469 Score: 1
+* Z00480 Score: 0
+* Z00488 Score: 0
+* Z00506 Score: 0
+* Z00509 Score: 1
+* Z00515 Score: 0
+* Z00521 Score: 0
+* Z00524 Score: 5
+* Z00544 Score: 0
+* Z00545 Score: 0
+* Z00553 Score: 0
+* Z00556 Score: 1
+* Z00581 Score: 0
+* Z00585 Score: 58
+* Z00588 Score: 50
+* Z00604 Score: 0
+* Z00617 Score: 0
+* Z00618 Score: 0
+* Z00646 Score: 58
+* Z00658 Score: 2
+* Z00708 Score: 0
+* Z00716 Score: 1
+* Z00735 Score: 0
