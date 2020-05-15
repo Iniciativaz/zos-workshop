@@ -36,18 +36,18 @@ De uma olhada na sua caixa de spam, você receberá um email de zskills@us.ibm.c
 * Ainda não conhece o Iniciativa Z? Acesse: http://ibm.biz/iniciativaz
 
 # Videos dos Labs
-Onde fazer download dos labs? Veja a última coluna. Um único arquivo com todas as instruções: http://ibm.biz/zOSclass
-Playlist no YouTube com os Labs: https://www.youtube.com/playlist?list=PLt8B29DbbvgvZTpxEOEdQZ_Nq2A4nFifl
-
+* Onde fazer download dos labs? Veja a última coluna. Um único arquivo com todas as instruções: http://ibm.biz/zOSclass
+* Playlist no YouTube com os Labs: https://www.youtube.com/playlist?list=PLt8B29DbbvgvZTpxEOEdQZ_Nq2A4nFifl
 Dica Lab1 - Sobre FTP enviado por um participante: "no meu caso o problema do FTP foi o FTP do Windows, eu usei o WINSCP e deu certo"
 
 # Quiz!
 
-1. O quiz tem 60 perguntas e responstas. Para fazer download do arquivo acesse: http://ibm.biz/zOSclass
+1. O deverá ser enviado via z/OS e tem 60 perguntas e respostas. Para fazer download do arquivo com as questões acesse: http://ibm.biz/zOSclass
 2. Para passar no quiz e poder receber o badge você precisa acertar no mínimo 42 questões (70%)
 3. Você tem até domingo, dia 17/5, às 18h (GMT-3) para enviar suas respostas. 
 4. Você poderá submeter o quiz quantas vezes quizer porém sempre o último envio será computado.
 5. Nós precisamos "corrigir" o quiz :-)  
 6. Para abrir o quiz digite **tso quiz**
+
 
 
