@@ -29,7 +29,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
-**Resultados do quiz em 16/maio às 17:10h**
+**Resultados do quiz em 16/maio às 18:30h**
 
 * Z00055 Score: 54
 * Z00056 Score: 49
@@ -38,13 +38,13 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00071 Score: 45
 * Z00073 Score: 48
 * Z00083 Score: 60
-* Z00084 Score: 24
+* Z00084 Score: 34
 * Z00088 Score: 42
 * Z00095 Score: 43
 * Z00101 Score: 0
 * Z00105 Score: 1
 * Z00106 Score: 60
-* Z00107 Score: 57
+* Z00107 Score: 60
 * Z00112 Score: 57
 * Z00114 Score: 56
 * Z00116 Score: 0
@@ -61,7 +61,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00143 Score: 51
 * Z00146 Score: 9
 * Z00147 Score: 43
-* Z00151 Score: 43
+* Z00151 Score: 55
 * Z00157 Score: 0
 * Z00159 Score: 59
 * Z00160 Score: 60
@@ -95,21 +95,22 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00298 Score: 56
 * Z00299 Score: 58
 * Z00301 Score: 60
-* Z00302 Score: 0
+* Z00302 Score: 59
 * Z00308 Score: 51
-* Z00310 Score: 0
+* Z00310 Score: 51
 * Z00312 Score: 51
 * Z00316 Score: 58
 * Z00328 Score: 57
 * Z00339 Score: 59
 * Z00362 Score: 52
-* Z00379 Score: 0
+* Z00379 Score: 4
 * Z00382 Score: 53
 * Z00387 Score: 1
 * Z00390 Score: 0
-* Z00400 Score: 40
+* Z00400 Score: 44
 * Z00401 Score: 43
 * Z00403 Score: 54
+* Z00415 Score: 26
 * Z00417 Score: 1
 * Z00423 Score: 55
 * Z00434 Score: 0
@@ -131,6 +132,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00511 Score: 53
 * Z00515 Score: 35
 * Z00516 Score: 44
+* Z00518 Score: 0
 * Z00521 Score: 0
 * Z00524 Score: 5
 * Z00528 Score: 44
@@ -158,7 +160,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00653 Score: 46
 * Z00658 Score: 46
 * Z00668 Score: 53
-* Z00673 Score: 0
+* Z00673 Score: 29
 * Z00679 Score: 58
 * Z00684 Score: 56
 * Z00701 Score: 0
