@@ -41,7 +41,7 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 6. Para abrir o quiz digite **tso quiz**
 
 # Quiz Score
-15/maio às 19:50h
+15/maio às 21:20h
 
 *  Score: 0
 * Z00055 Score: 54
