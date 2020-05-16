@@ -29,12 +29,12 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
-**Resultados do quiz em 16/maio às 16:10h**
+**Resultados do quiz em 16/maio às 17:10h**
 
 * Z00055 Score: 54
 * Z00056 Score: 49
 * Z00060 Score: 52
-* Z00065 Score: 41
+* Z00065 Score: 56
 * Z00071 Score: 45
 * Z00073 Score: 48
 * Z00083 Score: 60
@@ -44,7 +44,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00101 Score: 0
 * Z00105 Score: 1
 * Z00106 Score: 60
-* Z00107 Score: 53
+* Z00107 Score: 57
 * Z00112 Score: 57
 * Z00114 Score: 56
 * Z00116 Score: 0
@@ -80,12 +80,14 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00208 Score: 50
 * Z00213 Score: 60
 * Z00227 Score: 42
+* Z00230 Score: 46
 * Z00255 Score: 50
 * Z00265 Score: 44
 * Z00266 Score: 54
-* Z00273 Score: 26
+* Z00273 Score: 24
 * Z00274 Score: 32
 * Z00275 Score: 56
+* Z00280 Score: 47
 * Z00288 Score: 60
 * Z00289 Score: 48
 * Z00290 Score: 60
@@ -93,13 +95,15 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00298 Score: 56
 * Z00299 Score: 58
 * Z00301 Score: 60
+* Z00302 Score: 0
 * Z00308 Score: 51
 * Z00310 Score: 0
 * Z00312 Score: 51
 * Z00316 Score: 58
 * Z00328 Score: 57
-* Z00339 Score: 0
+* Z00339 Score: 59
 * Z00362 Score: 52
+* Z00379 Score: 0
 * Z00382 Score: 53
 * Z00387 Score: 1
 * Z00390 Score: 0
@@ -126,6 +130,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00509 Score: 23
 * Z00511 Score: 53
 * Z00515 Score: 35
+* Z00516 Score: 44
 * Z00521 Score: 0
 * Z00524 Score: 5
 * Z00528 Score: 44
@@ -146,7 +151,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00605 Score: 57
 * Z00617 Score: 48
 * Z00618 Score: 32
-* Z00620 Score: 0
+* Z00620 Score: 36
 * Z00646 Score: 58
 * Z00649 Score: 0
 * Z00652 Score: 57
@@ -159,6 +164,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00701 Score: 0
 * Z00708 Score: 51
 * Z00711 Score: 55
+* Z00714 Score: 46
 * Z00716 Score: 54
 * Z00725 Score: 42
 * Z00730 Score: 46
