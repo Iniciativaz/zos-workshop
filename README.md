@@ -29,9 +29,10 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
--Resultados do quiz em 16/maio às 08:50h-
+**Resultados do quiz em 16/maio às 10:00h**
 
 - Z00055 Score: 54
+- Z00056 Score: 0
 - Z00060 Score: 52
 - Z00065 Score: 41
 - Z00071 Score: 45
@@ -84,6 +85,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00312 Score: 51
 - Z00316 Score: 58
 - Z00328 Score: 57
+- Z00339 Score: 0
 - Z00362 Score: 52
 - Z00387 Score: 1
 - Z00390 Score: 0
