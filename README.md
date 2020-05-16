@@ -43,10 +43,12 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 # Quiz Score
 15/maio às 19:50h
 
+*  Score: 0
 * Z00055 Score: 54
 * Z00060 Score: 0
-* Z00065 Score: 0
+* Z00065 Score: 41
 * Z00071 Score: 45
+* Z00073 Score: 48
 * Z00083 Score: 60
 * Z00088 Score: 3
 * Z00095 Score: 43
@@ -56,7 +58,7 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00112 Score: 57
 * Z00116 Score: 0
 * Z00119 Score: 54
-* Z00120 Score: 0
+* Z00120 Score: 25
 * Z00133 Score: 49
 * Z00135 Score: 0
 * Z00138 Score: 0
@@ -66,21 +68,25 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00160 Score: 60
 * Z00168 Score: 54
 * Z00183 Score: 60
-* Z00190 Score: 40
+* Z00190 Score: 42
 * Z00196 Score: 53
 * Z00198 Score: 56
 * Z00199 Score: 58
 * Z00201 Score: 60
 * Z00208 Score: 50
-* Z00213 Score: 3
+* Z00213 Score: 0
 * Z00227 Score: 42
 * Z00255 Score: 0
+* Z00266 Score: 54
 * Z00273 Score: 0
 * Z00274 Score: 2
 * Z00275 Score: 56
+* Z00288 Score: 0
 * Z00289 Score: 0
+* Z00290 Score: 47
 * Z00299 Score: 58
 * Z00301 Score: 60
+* Z00308 Score: 51
 * Z00310 Score: 0
 * Z00312 Score: 0
 * Z00316 Score: 58
@@ -88,14 +94,15 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00362 Score: 52
 * Z00387 Score: 1
 * Z00390 Score: 0
-* Z00400 Score: 0
+* Z00400 Score: 40
 * Z00401 Score: 0
 * Z00403 Score: 54
 * Z00417 Score: 1
 * Z00423 Score: 55
 * Z00434 Score: 0
+* Z00445 Score: 55
 * Z00450 Score: 2
-* Z00451 Score: 0
+* Z00451 Score: 58
 * Z00469 Score: 1
 * Z00472 Score: 1
 * Z00480 Score: 0
@@ -103,7 +110,7 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00495 Score: 44
 * Z00502 Score: 60
 * Z00506 Score: 60
-* Z00509 Score: 1
+* Z00509 Score: 23
 * Z00515 Score: 0
 * Z00521 Score: 0
 * Z00524 Score: 5
@@ -123,10 +130,12 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00618 Score: 0
 * Z00646 Score: 58
 * Z00652 Score: 57
+* Z00653 Score: 41
 * Z00658 Score: 2
 * Z00668 Score: 53
 * Z00673 Score: 0
 * Z00701 Score: 0
 * Z00708 Score: 51
+* Z00711 Score: 55
 * Z00716 Score: 54
 * Z00735 Score: 0
