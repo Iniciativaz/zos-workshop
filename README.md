@@ -22,17 +22,17 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 ### Quiz!
 
 - O [quiz](http://dtsc.dfw.ibm.com/MVSDS/'HTTPD2.APPS.ZOSCLASS.PDF(QUIZ)') possui 60 perguntas e respostas e você deverá identificar qual é a resposta certa para cada questão.
--  Para passar no quiz e poder receber o badge/certificado do workshop você precisa acertar no **mínimo 42 questões**
+-  Para passar no quiz e poder receber o badge/certificado do workshop você precisa acertar no -mínimo 42 questões-
 - Você tem até domingo, dia 17/5, às 18h (GMT-3) para enviar suas respostas.
 - Você poderá submeter o quiz quantas vezes quizer porém sempre o último envio será computado.
 - Nós precisamos "corrigir" o quiz :-) Abaixo a lista de IDs com o score mais recente.
-- Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite **tso quiz** no seu terminal
+- Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
-**Resultados do quiz em 15/maio às 23:50h**
+-Resultados do quiz em 16/maio às 08:50h-
 
 - Z00055 Score: 54
-- Z00060 Score: 24
+- Z00060 Score: 52
 - Z00065 Score: 41
 - Z00071 Score: 45
 - Z00073 Score: 48
@@ -43,20 +43,25 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00105 Score: 1
 - Z00106 Score: 60
 - Z00112 Score: 57
+- Z00114 Score: 56
 - Z00116 Score: 0
 - Z00119 Score: 54
 - Z00120 Score: 25
 - Z00133 Score: 49
 - Z00135 Score: 0
+- Z00136 Score: 0
 - Z00138 Score: 56
 - Z00143 Score: 51
+- Z00146 Score: 9
 - Z00147 Score: 43
 - Z00151 Score: 43
 - Z00157 Score: 0
 - Z00160 Score: 60
 - Z00168 Score: 54
+- Z00182 Score: 32
 - Z00183 Score: 60
 - Z00190 Score: 60
+- Z00193 Score: 30
 - Z00196 Score: 53
 - Z00198 Score: 56
 - Z00199 Score: 58
@@ -67,7 +72,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00255 Score: 0
 - Z00266 Score: 54
 - Z00273 Score: 0
-- Z00274 Score: 2
+- Z00274 Score: 19
 - Z00275 Score: 56
 - Z00288 Score: 60
 - Z00289 Score: 48
@@ -76,18 +81,19 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00301 Score: 60
 - Z00308 Score: 51
 - Z00310 Score: 0
-- Z00312 Score: 0
+- Z00312 Score: 51
 - Z00316 Score: 58
 - Z00328 Score: 57
 - Z00362 Score: 52
 - Z00387 Score: 1
 - Z00390 Score: 0
 - Z00400 Score: 40
-- Z00401 Score: 0
+- Z00401 Score: 1
 - Z00403 Score: 54
 - Z00417 Score: 1
 - Z00423 Score: 55
 - Z00434 Score: 0
+- Z00441 Score: 31
 - Z00445 Score: 55
 - Z00450 Score: 2
 - Z00451 Score: 58
@@ -104,6 +110,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00521 Score: 0
 - Z00524 Score: 5
 - Z00528 Score: 44
+- Z00535 Score: 54
 - Z00544 Score: 0
 - Z00545 Score: 0
 - Z00553 Score: 28
@@ -116,7 +123,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00597 Score: 57
 - Z00604 Score: 60
 - Z00605 Score: 57
-- Z00617 Score: 0
+- Z00617 Score: 48
 - Z00618 Score: 0
 - Z00646 Score: 58
 - Z00652 Score: 57
