@@ -29,25 +29,28 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
-**Resultados do quiz em 16/maio às 10:00h**
+**Resultados do quiz em 16/maio às 12:30h**
 
 - Z00055 Score: 54
-- Z00056 Score: 0
+- Z00056 Score: 49
 - Z00060 Score: 52
 - Z00065 Score: 41
 - Z00071 Score: 45
 - Z00073 Score: 48
 - Z00083 Score: 60
+- Z00084 Score: 0
 - Z00088 Score: 3
 - Z00095 Score: 43
 - Z00101 Score: 0
 - Z00105 Score: 1
 - Z00106 Score: 60
+- Z00107 Score: 57
 - Z00112 Score: 57
 - Z00114 Score: 56
 - Z00116 Score: 0
 - Z00119 Score: 54
 - Z00120 Score: 25
+- Z00126 Score: 56
 - Z00133 Score: 49
 - Z00135 Score: 0
 - Z00136 Score: 0
@@ -57,7 +60,9 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00147 Score: 43
 - Z00151 Score: 43
 - Z00157 Score: 0
+- Z00159 Score: 59
 - Z00160 Score: 60
+- Z00164 Score: 34
 - Z00168 Score: 54
 - Z00182 Score: 32
 - Z00183 Score: 60
@@ -67,10 +72,11 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00198 Score: 56
 - Z00199 Score: 58
 - Z00201 Score: 60
+- Z00203 Score: 33
 - Z00208 Score: 50
 - Z00213 Score: 58
 - Z00227 Score: 42
-- Z00255 Score: 0
+- Z00255 Score: 50
 - Z00266 Score: 54
 - Z00273 Score: 0
 - Z00274 Score: 19
@@ -90,16 +96,17 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00387 Score: 1
 - Z00390 Score: 0
 - Z00400 Score: 40
-- Z00401 Score: 1
+- Z00401 Score: 43
 - Z00403 Score: 54
 - Z00417 Score: 1
 - Z00423 Score: 55
 - Z00434 Score: 0
+- Z00440 Score: 60
 - Z00441 Score: 31
 - Z00445 Score: 55
 - Z00450 Score: 2
 - Z00451 Score: 58
-- Z00469 Score: 1
+- Z00469 Score: 40
 - Z00472 Score: 1
 - Z00480 Score: 0
 - Z00484 Score: 56
@@ -129,7 +136,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00618 Score: 0
 - Z00646 Score: 58
 - Z00652 Score: 57
-- Z00653 Score: 41
+- Z00653 Score: 46
 - Z00658 Score: 2
 - Z00668 Score: 53
 - Z00673 Score: 0
@@ -138,4 +145,6 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Z00708 Score: 51
 - Z00711 Score: 55
 - Z00716 Score: 54
+- Z00725 Score: 42
+- Z00730 Score: 46
 - Z00735 Score: 0
