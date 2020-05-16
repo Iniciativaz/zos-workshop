@@ -41,9 +41,8 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 6. Para abrir o quiz digite **tso quiz**
 
 # Quiz Score
-15/maio às 21:20h
+15/maio às 22:40h
 
-*  Score: 0
 * Z00055 Score: 54
 * Z00060 Score: 0
 * Z00065 Score: 41
@@ -61,29 +60,30 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00120 Score: 25
 * Z00133 Score: 49
 * Z00135 Score: 0
-* Z00138 Score: 0
+* Z00138 Score: 56
 * Z00143 Score: 51
-* Z00147 Score: 40
+* Z00147 Score: 43
+* Z00151 Score: 0
 * Z00157 Score: 0
 * Z00160 Score: 60
 * Z00168 Score: 54
 * Z00183 Score: 60
-* Z00190 Score: 42
+* Z00190 Score: 39
 * Z00196 Score: 53
 * Z00198 Score: 56
 * Z00199 Score: 58
 * Z00201 Score: 60
 * Z00208 Score: 50
-* Z00213 Score: 0
+* Z00213 Score: 58
 * Z00227 Score: 42
 * Z00255 Score: 0
 * Z00266 Score: 54
 * Z00273 Score: 0
 * Z00274 Score: 2
 * Z00275 Score: 56
-* Z00288 Score: 0
+* Z00288 Score: 60
 * Z00289 Score: 0
-* Z00290 Score: 47
+* Z00290 Score: 60
 * Z00299 Score: 58
 * Z00301 Score: 60
 * Z00308 Score: 51
@@ -106,6 +106,7 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00469 Score: 1
 * Z00472 Score: 1
 * Z00480 Score: 0
+* Z00484 Score: 56
 * Z00488 Score: 0
 * Z00495 Score: 44
 * Z00502 Score: 60
@@ -114,11 +115,12 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00515 Score: 0
 * Z00521 Score: 0
 * Z00524 Score: 5
-* Z00528 Score: 36
+* Z00528 Score: 44
 * Z00544 Score: 0
 * Z00545 Score: 0
 * Z00553 Score: 0
 * Z00556 Score: 1
+* Z00571 Score: 0
 * Z00580 Score: 57
 * Z00581 Score: 55
 * Z00585 Score: 58
@@ -134,6 +136,7 @@ Obs: no anúncio original colocamos horário de término às 15h. Usaremos esse 
 * Z00658 Score: 2
 * Z00668 Score: 53
 * Z00673 Score: 0
+* Z00679 Score: 0
 * Z00701 Score: 0
 * Z00708 Score: 51
 * Z00711 Score: 55
