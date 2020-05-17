@@ -24,12 +24,12 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - O [quiz](http://dtsc.dfw.ibm.com/MVSDS/'HTTPD2.APPS.ZOSCLASS.PDF(QUIZ)') possui 60 perguntas e respostas e você deverá identificar qual é a resposta certa para cada questão.
 -  Para passar no quiz e poder receber o badge/certificado do workshop você precisa acertar no -mínimo 42 questões-
 - Você tem até domingo, dia 17/5, às 18h (GMT-3) para enviar suas respostas.
-- Você poderá submeter o quiz quantas vezes quizer porém sempre o último envio será computado.
+- Você poderá submeter o quiz quantas vezes quiser porém sempre o último envio será computado.
 - Nós precisamos "corrigir" o quiz :-) Abaixo a lista de IDs com o score mais recente.
-- Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
+- Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite *tso quiz* no seu terminal
 
 ## Score
-**Resultados do quiz em 17/maio às 08:00h**
+**Resultados do quiz em 17/maio às 09:30h**
 
 * Z00055 Score: 54
 * Z00056 Score: 49
@@ -40,6 +40,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00078 Score: 37
 * Z00083 Score: 60
 * Z00084 Score: 34
+* Z00087 Score: 42
 * Z00088 Score: 42
 * Z00089 Score: 37
 * Z00095 Score: 43
