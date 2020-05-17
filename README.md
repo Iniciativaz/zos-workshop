@@ -29,7 +29,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 - Todas as respostas deverão ser submetidas via sistema. Para abrir o quiz digite -tso quiz- no seu terminal
 
 ## Score
-**Resultados do quiz em 16/maio às 19:10h**
+**Resultados do quiz em 16/maio às 21:00h**
 
 * Z00055 Score: 54
 * Z00056 Score: 49
@@ -37,12 +37,14 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00065 Score: 56
 * Z00071 Score: 45
 * Z00073 Score: 48
+* Z00078 Score: 37
 * Z00083 Score: 60
 * Z00084 Score: 34
 * Z00088 Score: 42
+* Z00089 Score: 37
 * Z00095 Score: 43
 * Z00101 Score: 0
-* Z00105 Score: 1
+* Z00105 Score: 60
 * Z00106 Score: 60
 * Z00107 Score: 60
 * Z00112 Score: 57
@@ -81,7 +83,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00213 Score: 60
 * Z00227 Score: 42
 * Z00230 Score: 46
-* Z00252 Score: 0
+* Z00252 Score: 51
 * Z00255 Score: 50
 * Z00265 Score: 44
 * Z00266 Score: 54
@@ -97,6 +99,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00299 Score: 58
 * Z00301 Score: 60
 * Z00302 Score: 59
+* Z00304 Score: 44
 * Z00308 Score: 51
 * Z00310 Score: 51
 * Z00312 Score: 51
@@ -114,6 +117,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00415 Score: 26
 * Z00417 Score: 1
 * Z00423 Score: 55
+* Z00428 Score: 33
 * Z00434 Score: 0
 * Z00440 Score: 60
 * Z00441 Score: 31
@@ -125,7 +129,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00480 Score: 0
 * Z00484 Score: 56
 * Z00488 Score: 58
-* Z00489 Score: 0
+* Z00489 Score: 48
 * Z00495 Score: 44
 * Z00502 Score: 60
 * Z00506 Score: 60
@@ -139,6 +143,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00528 Score: 44
 * Z00532 Score: 56
 * Z00535 Score: 54
+* Z00537 Score: 6
 * Z00544 Score: 26
 * Z00545 Score: 0
 * Z00550 Score: 35
@@ -164,6 +169,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00673 Score: 29
 * Z00679 Score: 58
 * Z00684 Score: 56
+* Z00690 Score: 23
 * Z00701 Score: 0
 * Z00708 Score: 51
 * Z00711 Score: 55
