@@ -108,7 +108,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00275 Score: 56
 * Z00279 Score: 26
 * Z00280 Score: 47
-* Z00281 Score: 41
+* Z00281 Score: 50
 * Z00286 Score: 58
 * Z00288 Score: 60
 * Z00289 Score: 48
@@ -184,7 +184,7 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00515 Score: 44
 * Z00516 Score: 44
 * Z00518 Score: 44
-* Z00521 Score: 41
+* Z00521 Score: 44
 * Z00524 Score: 17
 * Z00525 Score: 60
 * Z00528 Score: 44
@@ -228,14 +228,17 @@ O [Workshop de Introdução ao z/OS](https://www.meetup.com/iniciativaz/events/2
 * Z00653 Score: 46
 * Z00658 Score: 46
 * Z00664 Score: 44
+* Z00665 Score: 0
+* Z00666 Score: 56
 * Z00668 Score: 53
 * Z00673 Score: 48
 * Z00679 Score: 58
 * Z00684 Score: 56
 * Z00687 Score: 46
+* Z00688 Score: 45
 * Z00689 Score: 53
 * Z00690 Score: 23
-* Z00693 Score: 33
+* Z00693 Score: 38
 * Z00694 Score: 55
 * Z00696 Score: 45
 * Z00701 Score: 0
